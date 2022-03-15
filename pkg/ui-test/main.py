@@ -3,8 +3,7 @@
 """
 QPy CMD extension
 name: ui-test
-description: This is a sample project which use SL4A UI Framework,
-There is another Sample project: https://github.com/qpython-android/qpy-calcount
+description: This is a sample project which use SL4A UI Framework, There is another Sample project: https://github.com/qpython-android/qpy-calcount
 version: v0.1
 author: qpython
 require: ""

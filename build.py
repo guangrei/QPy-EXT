@@ -18,18 +18,20 @@ def list_dir(mypath):
     return ret
 
 
-readme = """*** Extension for QPy CMD v2.0 and up. ***\n
+readme = """***Extension for QPy CMD v2.0 and up.***\n
 """
 readme_add = """
 ### {ext_name}
 
 name: {name}
+
 author: {author}
+
 description: {description}
 version: {version}\n
 """
 readme_end = """
-*** If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request. ***"""
+***If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request.***"""
 ext = {}
 ext["META"] = {}
 ext["META"]["prefix"] = "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/"
