@@ -1,4 +1,4 @@
-name: Workflow for dump aiml
+name: Workflow build
 
 on: [push]
 

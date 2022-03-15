@@ -36,7 +36,7 @@ nama = re.compile('name:(.*?)\n', re.S)
 author = re.compile('author:(.*?)\n', re.S)
 version = re.compile('version:(.*?)\n', re.S)
 require = re.compile('require: "(.*?)"', re.S)
-path = os.path.dirname(sys.argv[0])+"/pkg/"
+path = "./pkg/"
 list = list_dir(path)
 for i in list:
     print("processing ",i)
