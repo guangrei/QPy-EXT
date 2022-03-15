@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-15 11:43:51"
+        "udated": "2022-03-15 11:51:30"
     },
     "cmd2": {
         "author": "guangrei",
@@ -60,7 +60,7 @@
     },
     "ui-test": {
         "author": "qpython",
-        "description": "This is a sample project which use SL4A UI Framework,",
+        "description": "This is a sample project which use SL4A UI Framework, There is another Sample project: https://github.com/qpython-android/qpy-calcount",
         "files": [
             ".version",
             "main.py"
