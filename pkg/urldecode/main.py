@@ -23,6 +23,6 @@ try:
         droid.makeToast("copied!")
     else:
         droid.makeToast("copy failed!")
-    print("[<]: " +res)
+    print("[<]: " + res)
 except IndexError:
     print("Usage: urldecode <string>")

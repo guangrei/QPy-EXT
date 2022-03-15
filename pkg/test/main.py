@@ -13,10 +13,10 @@ require: ""
 argv = sys.argv
 del argv[0]
 print("this is test extension!")
-if len(argv)>0:
-    print("you have args: ",len(argv))
+if len(argv) > 0:
+    print("you have args: ", len(argv))
     print("your args:")
     pprint(argv)
 else:
-    print("you have args: ",len(argv))
+    print("you have args: ", len(argv))
 print("your extension path: "+os.environ["EXT_DIR"])

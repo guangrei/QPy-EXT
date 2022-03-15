@@ -1,0 +1,94 @@
+{
+    "META": {
+        "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
+        "udated": "2022-03-15 11:43:51"
+    },
+    "cmd2": {
+        "author": "guangrei",
+        "description": "native terminal launcher",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "cmd2",
+        "require": [],
+        "version": "v1.0"
+    },
+    "download": {
+        "author": "guangrei",
+        "description": "simple file downloader.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "download",
+        "require": [],
+        "version": "v1.0"
+    },
+    "ext-maker": {
+        "author": "guangrei",
+        "description": "extension maker.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "ext-maker",
+        "require": [],
+        "version": "v0.1"
+    },
+    "sl4a-test": {
+        "author": "qpython",
+        "description": "sl4a-test.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "sl4a-test",
+        "require": [],
+        "version": "v0.1"
+    },
+    "test": {
+        "author": "guangrei",
+        "description": "test extension.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "test",
+        "require": [],
+        "version": "v1.0"
+    },
+    "ui-test": {
+        "author": "qpython",
+        "description": "This is a sample project which use SL4A UI Framework,",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "ui-test",
+        "require": [],
+        "version": "v0.1"
+    },
+    "urldecode": {
+        "author": "guangrei",
+        "description": "decode url and copy its result to clipboard.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "urldecode",
+        "require": [],
+        "version": "v1.0"
+    },
+    "urlencode": {
+        "author": "guangrei",
+        "description": "encode url and copy its result to clipboard.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "urlencode",
+        "require": [],
+        "version": "v1.0"
+    }
+}

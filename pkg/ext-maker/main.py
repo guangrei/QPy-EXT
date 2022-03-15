@@ -29,10 +29,10 @@ if __name__ == "__main__":
 """
 while True:
     name = input("your extension name (required) : ")
-    if name=="":
+    if name == "":
         pass
     else:
-        name = name.replace(" ","-")
+        name = name.replace(" ", "-")
         if not os.path.isdir(path+"/"+name):
             os.mkdir(path+"/"+name)
             break
@@ -41,20 +41,21 @@ while True:
 
 while True:
     description = input("your extension description (required): ")
-    if description=="":
+    if description == "":
         pass
     else:
         break
 
 while True:
     author = input("your name (required): ")
-    if author=="":
+    if author == "":
         pass
     else:
         break
 require = input("your extension dependency (separate with comma, optional): ")
 
-end = tmp.format(name=name,author=author,description=description,require=require)
+end = tmp.format(name=name, author=author,
+                 description=description, require=require)
 
 with open(path+"/"+name+"/main.py", "w") as f1:
     f1.write(end)
@@ -62,4 +63,4 @@ with open(path+"/"+name+"/main.py", "w") as f1:
 with open(path+"/"+name+"/.version", "w") as f2:
     f2.write("v0.01")
 
-print("Success creating extension, now you can edit your extension at ", path+"/"+name)    
+print("Success creating extension, now you can edit your extension at ", path+"/"+name)

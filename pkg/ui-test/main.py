@@ -1,5 +1,5 @@
-#qpy:quiet
-#-*-coding:utf8;-*-
+# qpy:quiet
+# -*-coding:utf8;-*-
 """
 QPy CMD extension
 name: ui-test
@@ -19,9 +19,10 @@ from qsl4ahelper.fullscreenwrapper2 import *
 
 droid = androidhelper.Android()
 
+
 class MainScreen(Layout):
     def __init__(self):
-        super(MainScreen,self).__init__(str("""<?xml version="1.0" encoding="utf-8"?>
+        super(MainScreen, self).__init__(str("""<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
 	android:layout_width="fill_parent"
 	android:layout_height="fill_parent"
@@ -84,11 +85,13 @@ class MainScreen(Layout):
 			android:gravity="center"/>
 	</LinearLayout>
 </LinearLayout>
-"""),"SL4AApp")
+"""), "SL4AApp")
 
     def on_show(self):
-        self.views.but_exit.add_event(click_EventHandler(self.views.but_exit, self.exit))
-        self.views.but_load.add_event(click_EventHandler(self.views.but_load, self.load))
+        self.views.but_exit.add_event(
+            click_EventHandler(self.views.but_exit, self.exit))
+        self.views.but_load.add_event(
+            click_EventHandler(self.views.but_load, self.load))
 
         pass
 
@@ -100,13 +103,15 @@ class MainScreen(Layout):
         droid.makeToast("Load")
 
         saved_logo = qpy.tmp+"/qpy.logo"
-        ur.urlretrieve("https://www.qpython.org/static/img_logo.png", saved_logo)
+        ur.urlretrieve(
+            "https://www.qpython.org/static/img_logo.png", saved_logo)
         self.views.logo.src = "file://"+saved_logo
 
     def exit(self, view, dummy):
         droid = FullScreenWrapper2App.get_android_instance()
         droid.makeToast("Exit")
         FullScreenWrapper2App.close_layout()
+
 
 if __name__ == '__main__':
     FullScreenWrapper2App.initialize(droid)
