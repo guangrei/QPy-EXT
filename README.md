@@ -1,7 +1,7 @@
 Extension for QPy CMD v2.0 and up!
 
 
-### CMD2
+### 1.CMD2
 
 ***name:*** cmd2
 
@@ -12,7 +12,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### DOWNLOAD
+### 2.DOWNLOAD
 
 ***name:*** download
 
@@ -23,7 +23,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### EXT-MAKER
+### 3.EXT-MAKER
 
 ***name:*** ext-maker
 
@@ -34,7 +34,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### SL4A-TEST
+### 4.SL4A-TEST
 
 ***name:*** sl4a-test
 
@@ -45,7 +45,18 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### TEST
+### 5.SPEAK
+
+***name:*** speak
+
+***author:*** Damon Kohler
+
+***description:*** Speak user generated text.
+
+***version:*** v0.1
+
+
+### 6.TEST
 
 ***name:*** test
 
@@ -56,7 +67,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### UI-TEST
+### 7.UI-TEST
 
 ***name:*** ui-test
 
@@ -67,7 +78,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### URLDECODE
+### 8.URLDECODE
 
 ***name:*** urldecode
 
@@ -78,7 +89,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### URLENCODE
+### 9.URLENCODE
 
 ***name:*** urlencode
 

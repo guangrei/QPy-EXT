@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-15 12:28:29"
+        "udated": "2022-03-15 16:03:30"
     },
     "cmd2": {
         "author": "guangrei",
@@ -44,6 +44,17 @@
             "main.py"
         ],
         "name": "sl4a-test",
+        "require": [],
+        "version": "v0.1"
+    },
+    "speak": {
+        "author": "Damon Kohler",
+        "description": "Speak user generated text.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "speak",
         "require": [],
         "version": "v0.1"
     },
