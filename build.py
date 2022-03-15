@@ -21,7 +21,7 @@ def list_dir(mypath):
 readme = """Extension for QPy CMD v2.0 and up!\n
 """
 readme_add = """
-### {ext_name}
+### {no}.{ext_name}
 
 ***name:*** {name}
 
@@ -71,9 +71,11 @@ with open("meta.json", "w") as f3:
     f3.write(js)
 js2 = json.loads(js)
 del js2["META"]
+n = 1
 for k, v in js2.items():
     tmp_text = readme_add.format(ext_name=v["name"].upper(
-    ), name=v["name"], author=v["author"], description=v["description"], version=v["version"])
+    ), name=v["name"], author=v["author"], description=v["description"], version=v["version"], no=n)
+    n = n+1
     readme = readme+tmp_text
 readme = readme+readme_end
 with open("README.md", "w") as f4:
