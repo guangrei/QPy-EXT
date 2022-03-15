@@ -1,84 +1,92 @@
-***Extension for QPy CMD v2.0 and up.***
+Extension for QPy CMD v2.0 and up!
 
 
 ### CMD2
 
-name: cmd2
+***name:*** cmd2
 
-author: guangrei
+***author:*** guangrei
 
-description: native terminal launcher
-version: v1.0
+***description:*** native terminal launcher
+
+***version:*** v1.0
 
 
 ### DOWNLOAD
 
-name: download
+***name:*** download
 
-author: guangrei
+***author:*** guangrei
 
-description: simple file downloader.
-version: v1.0
+***description:*** simple file downloader.
+
+***version:*** v1.0
 
 
 ### EXT-MAKER
 
-name: ext-maker
+***name:*** ext-maker
 
-author: guangrei
+***author:*** guangrei
 
-description: extension maker.
-version: v0.1
+***description:*** extension maker.
+
+***version:*** v0.1
 
 
 ### SL4A-TEST
 
-name: sl4a-test
+***name:*** sl4a-test
 
-author: qpython
+***author:*** qpython
 
-description: sl4a-test.
-version: v0.1
+***description:*** sl4a-test.
+
+***version:*** v0.1
 
 
 ### TEST
 
-name: test
+***name:*** test
 
-author: guangrei
+***author:*** guangrei
 
-description: test extension.
-version: v1.0
+***description:*** test extension.
+
+***version:*** v1.0
 
 
 ### UI-TEST
 
-name: ui-test
+***name:*** ui-test
 
-author: qpython
+***author:*** qpython
 
-description: This is a sample project which use SL4A UI Framework, There is another Sample project: https://github.com/qpython-android/qpy-calcount
-version: v0.1
+***description:*** This is a sample project which use SL4A UI Framework, There is another Sample project: https://github.com/qpython-android/qpy-calcount
+
+***version:*** v0.1
 
 
 ### URLDECODE
 
-name: urldecode
+***name:*** urldecode
 
-author: guangrei
+***author:*** guangrei
 
-description: decode url and copy its result to clipboard.
-version: v1.0
+***description:*** decode url and copy its result to clipboard.
+
+***version:*** v1.0
 
 
 ### URLENCODE
 
-name: urlencode
+***name:*** urlencode
 
-author: guangrei
+***author:*** guangrei
 
-description: encode url and copy its result to clipboard.
-version: v1.0
+***description:*** encode url and copy its result to clipboard.
+
+***version:*** v1.0
 
 
-***If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request.***
+> If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request.
