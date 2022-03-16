@@ -1,7 +1,18 @@
 Extension for QPy CMD v2.0 and up!
 
 
-### 1.CMD2
+### 1.BTCHAT
+
+***name:*** btchat
+
+***author:*** qpython
+
+***description:*** Bluetooth chat.
+
+***version:*** v0.1
+
+
+### 2.CMD2
 
 ***name:*** cmd2
 
@@ -12,7 +23,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 2.DOWNLOAD
+### 3.DOWNLOAD
 
 ***name:*** download
 
@@ -23,7 +34,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 3.EXT-MAKER
+### 4.EXT-MAKER
 
 ***name:*** ext-maker
 
@@ -34,7 +45,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### 4.SL4A-TEST
+### 5.SL4A-TEST
 
 ***name:*** sl4a-test
 
@@ -45,7 +56,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### 5.SPEAK
+### 6.SPEAK
 
 ***name:*** speak
 
@@ -56,7 +67,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### 6.TEST
+### 7.TEST
 
 ***name:*** test
 
@@ -67,7 +78,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 7.UI-TEST
+### 8.UI-TEST
 
 ***name:*** ui-test
 
@@ -78,7 +89,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### 8.URLDECODE
+### 9.URLDECODE
 
 ***name:*** urldecode
 
@@ -89,7 +100,7 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 9.URLENCODE
+### 10.URLENCODE
 
 ***name:*** urlencode
 

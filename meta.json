@@ -1,7 +1,18 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-15 16:03:30"
+        "udated": "2022-03-16 05:01:12"
+    },
+    "btchat": {
+        "author": "qpython",
+        "description": "Bluetooth chat.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "btchat",
+        "require": [],
+        "version": "v0.1"
     },
     "cmd2": {
         "author": "guangrei",

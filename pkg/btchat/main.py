@@ -18,26 +18,26 @@ droid.dialogShow()
 result = droid.dialogGetResponse()
 is_server = result.result['which'] == 'positive'
 if is_server:
-  droid.bluetoothMakeDiscoverable()
-  droid.bluetoothAccept()
+    droid.bluetoothMakeDiscoverable()
+    droid.bluetoothAccept()
 else:
-  droid.bluetoothConnect()
+    droid.bluetoothConnect()
 
 if is_server:
-  result = droid.getInput('Chat', 'Enter a message').result
-  if result is None:
-    droid.exit()
-  droid.bluetoothWrite(result + '\n')
+    result = droid.getInput('Chat', 'Enter a message').result
+    if result is None:
+        droid.exit()
+    droid.bluetoothWrite(result + '\n')
 
 while True:
-  message = droid.bluetoothReadLine().result
-  droid.dialogCreateAlert('Chat Received', message)
-  droid.dialogSetPositiveButtonText('Ok')
-  droid.dialogShow()
-  droid.dialogGetResponse()
-  result = droid.getInput('Chat', 'Enter a message').result
-  if result is None:
-    break
-  droid.bluetoothWrite(result + '\n')
+    message = droid.bluetoothReadLine().result
+    droid.dialogCreateAlert('Chat Received', message)
+    droid.dialogSetPositiveButtonText('Ok')
+    droid.dialogShow()
+    droid.dialogGetResponse()
+    result = droid.getInput('Chat', 'Enter a message').result
+    if result is None:
+        break
+    droid.bluetoothWrite(result + '\n')
 
 droid.exit()
