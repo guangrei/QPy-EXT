@@ -12,6 +12,8 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/btchat
+
 ### 2.CMD2
 
 ***name:*** cmd2
@@ -23,6 +25,8 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/cmd2
+
 ### 3.DOWNLOAD
 
 ***name:*** download
@@ -31,8 +35,10 @@ Extension for QPy CMD v2.0 and up!
 
 ***description:*** simple file downloader.
 
-***version:*** v1.0
+***version:*** v1.1
 
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/download
 
 ### 4.EXT-MAKER
 
@@ -45,6 +51,8 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ext-maker
+
 ### 5.SL4A-TEST
 
 ***name:*** sl4a-test
@@ -55,6 +63,8 @@ Extension for QPy CMD v2.0 and up!
 
 ***version:*** v0.1
 
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-test
 
 ### 6.SPEAK
 
@@ -67,6 +77,8 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/speak
+
 ### 7.TEST
 
 ***name:*** test
@@ -78,7 +90,35 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 8.UI-TEST
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/test
+
+### 8.TODO
+
+***name:*** todo
+
+***author:*** antorix
+
+***description:*** Simple todo list for QPython3 for Android. fork from https://github.com/antorix/todo
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/todo
+
+### 9.TRACKER
+
+***name:*** tracker
+
+***author:*** olastor
+
+***description:*** Utility for tracking location on Android with QPython3. fork from https://github.com/olastor/location-tracking
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tracker
+
+### 10.UI-TEST
 
 ***name:*** ui-test
 
@@ -89,7 +129,9 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v0.1
 
 
-### 9.URLDECODE
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ui-test
+
+### 11.URLDECODE
 
 ***name:*** urldecode
 
@@ -100,7 +142,9 @@ Extension for QPy CMD v2.0 and up!
 ***version:*** v1.0
 
 
-### 10.URLENCODE
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urldecode
+
+### 12.URLENCODE
 
 ***name:*** urlencode
 
@@ -110,5 +154,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***version:*** v1.0
 
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urlencode
 
 > If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request.

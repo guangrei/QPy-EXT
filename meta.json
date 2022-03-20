@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-16 05:01:12"
+        "udated": "2022-03-20 06:56:43"
     },
     "btchat": {
         "author": "qpython",
@@ -34,7 +34,7 @@
         ],
         "name": "download",
         "require": [],
-        "version": "v1.0"
+        "version": "v1.1"
     },
     "ext-maker": {
         "author": "guangrei",
@@ -79,6 +79,29 @@
         "name": "test",
         "require": [],
         "version": "v1.0"
+    },
+    "todo": {
+        "author": "antorix",
+        "description": "Simple todo list for QPython3 for Android. fork from https://github.com/antorix/todo",
+        "files": [
+            "task.txt",
+            ".version",
+            "main.py"
+        ],
+        "name": "todo",
+        "require": [],
+        "version": "v0.1"
+    },
+    "tracker": {
+        "author": "olastor",
+        "description": "Utility for tracking location on Android with QPython3. fork from https://github.com/olastor/location-tracking",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "tracker",
+        "require": [],
+        "version": "v0.1"
     },
     "ui-test": {
         "author": "qpython",
