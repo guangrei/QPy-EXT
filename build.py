@@ -30,6 +30,8 @@ readme_add = """
 ***description:*** {description}
 
 ***version:*** {version}\n
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/{pkg}
 """
 readme_end = """
 > If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request."""
@@ -74,7 +76,7 @@ del js2["META"]
 n = 1
 for k, v in js2.items():
     tmp_text = readme_add.format(ext_name=v["name"].upper(
-    ), name=v["name"], author=v["author"], description=v["description"], version=v["version"], no=n)
+    ), name=v["name"], author=v["author"], description=v["description"], version=v["version"], no=n, pkg=v["name"])
     n = n+1
     readme = readme+tmp_text
 readme = readme+readme_end
