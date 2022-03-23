@@ -10,8 +10,12 @@ require: ""
 """
 # This is a very simple to-do list for Android. Requires QPython3 to run (download it from Google Play Market).
 import os
-from androidhelper import Android
-droid = Android()
+try:
+    import androidhelper
+except ImportErorr:
+    import sl4a as androidhelper
+
+droid = androidhelper.Android()
 
 # Find absolute path on Android
 path = os.environ["EXT_DIR"]+"/task.txt"

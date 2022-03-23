@@ -4,9 +4,9 @@ import time
 import types
 from urllib import parse
 try:
+    import sl4a as android helper
+except ImportErorr:
     import androidhelper
-except ImportError:
-    import android as androidhelper
 """
 QPy CMD extension
 name: sl4a-test

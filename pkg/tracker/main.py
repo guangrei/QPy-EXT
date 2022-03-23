@@ -1,8 +1,12 @@
-import androidhelper as android
+# -*-coding:utf8;-*-
+try:
+    import sl4a as android helper
+except ImportErorr:
+    import androidhelper
+
 import json
 from time import sleep
 from datetime import datetime
-# -*-coding:utf8;-*-
 import os
 import sys
 """
