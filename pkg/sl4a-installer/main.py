@@ -11,7 +11,6 @@ require: ""
 """
 argv = sys.argv  # argv
 path = os.environ["EXT_DIR"]  # your extension path
-if __name__ == "__main__":
 
 print("installing sl4a module..")
 py = sys.executable
