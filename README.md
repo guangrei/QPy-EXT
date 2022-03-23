@@ -53,7 +53,20 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ext-maker
 
-### 5.SL4A-TEST
+### 5.SL4A-INSTALLER
+
+***name:*** sl4a-installer
+
+***author:*** guangrei
+
+***description:*** Sl4a module installer.
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-installer
+
+### 6.SL4A-TEST
 
 ***name:*** sl4a-test
 
@@ -66,7 +79,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-test
 
-### 6.SPEAK
+### 7.SPEAK
 
 ***name:*** speak
 
@@ -79,7 +92,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/speak
 
-### 7.TEST
+### 8.TEST
 
 ***name:*** test
 
@@ -92,7 +105,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/test
 
-### 8.TODO
+### 9.TODO
 
 ***name:*** todo
 
@@ -105,7 +118,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/todo
 
-### 9.TRACKER
+### 10.TRACKER
 
 ***name:*** tracker
 
@@ -118,7 +131,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tracker
 
-### 10.UI-TEST
+### 11.UI-TEST
 
 ***name:*** ui-test
 
@@ -131,7 +144,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ui-test
 
-### 11.URLDECODE
+### 12.URLDECODE
 
 ***name:*** urldecode
 
@@ -144,7 +157,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urldecode
 
-### 12.URLENCODE
+### 13.URLENCODE
 
 ***name:*** urlencode
 

@@ -9,8 +9,8 @@ version: v0.1
 author: guangrei
 require: ""
 """
-argv = sys.argv # argv
-path = os.environ["EXT_DIR"] # your extension path
+argv = sys.argv  # argv
+path = os.environ["EXT_DIR"]  # your extension path
 if __name__ == "__main__":
     try:
         import androidhelper
