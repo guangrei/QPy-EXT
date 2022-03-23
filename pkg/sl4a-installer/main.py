@@ -12,12 +12,9 @@ require: ""
 argv = sys.argv  # argv
 path = os.environ["EXT_DIR"]  # your extension path
 if __name__ == "__main__":
-    try:
-        import xsl4a
-        print("you already have sl4a module!")
-    except ImportError:
-        print("installing sl4a module..")
-        py = sys.executable
-        com = "{0} {1} install".format(py, path+"/setup.py")
-        os.system(com)
-        print("done!")
+
+print("installing sl4a module..")
+py = sys.executable
+com = "{0} {1} install".format(py, path+"/setup.py")
+os.system(com)
+print("done!")
