@@ -4,7 +4,7 @@ import time
 import types
 from urllib import parse
 try:
-    import sl4a as android helper
+    import xsl4a as android helper
 except ImportErorr:
     import androidhelper
 """
