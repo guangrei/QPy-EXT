@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-23 13:28:20"
+        "udated": "2022-03-23 14:03:22"
     },
     "btchat": {
         "author": "qpython",
@@ -55,7 +55,7 @@
             "setup.cfg",
             ".version",
             "main.py",
-            "androidhelper.py"
+            "sl4a.py"
         ],
         "name": "sl4a-installer",
         "require": [],
