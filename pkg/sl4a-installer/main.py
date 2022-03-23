@@ -13,7 +13,7 @@ argv = sys.argv  # argv
 path = os.environ["EXT_DIR"]  # your extension path
 if __name__ == "__main__":
     try:
-        import sl4a
+        import xsl4a
         print("you already have sl4a module!")
     except ImportError:
         print("installing sl4a module..")
