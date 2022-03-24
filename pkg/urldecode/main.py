@@ -1,9 +1,9 @@
 # -*-coding:utf8;-*-
 from urllib import parse
 try:
-    import sl4a
-except ImportErorr:
     import androidhelper as sl4a
+except ImportError:
+    import android as sl4a
 import sys
 
 """

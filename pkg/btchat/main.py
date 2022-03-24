@@ -1,8 +1,5 @@
 # -*-coding:utf8;-*-
-try:
-    import sl4a as android helper
-except ImportErorr:
-    import androidhelper
+import androidhelper
 import time
 """
 QPy CMD extension

@@ -9,10 +9,7 @@ author: qpython
 require: ""
 """
 import qpy
-try:
-    import sl4a as android helper
-except ImportErorr:
-    import androidhelper
+import androidhelper
 try:
     import urllib.request as ur
 except:
