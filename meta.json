@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-24 03:41:07"
+        "udated": "2022-03-25 09:20:10"
     },
     "btchat": {
         "author": "qpython",
@@ -83,6 +83,17 @@
         "require": [],
         "version": "v0.1"
     },
+    "tar": {
+        "author": "guangrei",
+        "description": "tar program with python tarfile module.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "tar",
+        "require": [],
+        "version": "v0.1"
+    },
     "test": {
         "author": "guangrei",
         "description": "test extension.",
@@ -133,6 +144,17 @@
         "require": [],
         "version": "v0.1"
     },
+    "unittest": {
+        "author": "guangrei",
+        "description": "python unit test.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "unittest",
+        "require": [],
+        "version": "v0.1"
+    },
     "urldecode": {
         "author": "guangrei",
         "description": "decode url and copy its result to clipboard.",
@@ -154,5 +176,16 @@
         "name": "urlencode",
         "require": [],
         "version": "v1.0"
+    },
+    "zip": {
+        "author": "guangrei",
+        "description": "zip program with python zipfile module.",
+        "files": [
+            ".version",
+            "main.py"
+        ],
+        "name": "zip",
+        "require": [],
+        "version": "v0.1"
     }
 }

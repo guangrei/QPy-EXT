@@ -92,7 +92,20 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/speak
 
-### 8.TEST
+### 8.TAR
+
+***name:*** tar
+
+***author:*** guangrei
+
+***description:*** tar program with python tarfile module.
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tar
+
+### 9.TEST
 
 ***name:*** test
 
@@ -105,7 +118,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/test
 
-### 9.TODO
+### 10.TODO
 
 ***name:*** todo
 
@@ -118,7 +131,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/todo
 
-### 10.TRACKER
+### 11.TRACKER
 
 ***name:*** tracker
 
@@ -131,7 +144,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tracker
 
-### 11.UI-TEST
+### 12.UI-TEST
 
 ***name:*** ui-test
 
@@ -144,7 +157,20 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ui-test
 
-### 12.URLDECODE
+### 13.UNITTEST
+
+***name:*** unittest
+
+***author:*** guangrei
+
+***description:*** python unit test.
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/unittest
+
+### 14.URLDECODE
 
 ***name:*** urldecode
 
@@ -157,7 +183,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urldecode
 
-### 13.URLENCODE
+### 15.URLENCODE
 
 ***name:*** urlencode
 
@@ -169,5 +195,18 @@ Extension for QPy CMD v2.0 and up!
 
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urlencode
+
+### 16.ZIP
+
+***name:*** zip
+
+***author:*** guangrei
+
+***description:*** zip program with python zipfile module.
+
+***version:*** v0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/zip
 
 > If you want add your own extension, just fork this repository and add your extension to directory pkg then make pull request.
