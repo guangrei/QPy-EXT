@@ -53,20 +53,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ext-maker
 
-### 5.SL4A-INSTALLER
-
-***name:*** sl4a-installer
-
-***author:*** guangrei
-
-***description:*** Sl4a module installer.
-
-***version:*** v0.1
-
-
-***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-installer
-
-### 6.SL4A-TEST
+### 5.SL4A-TEST
 
 ***name:*** sl4a-test
 
@@ -79,7 +66,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-test
 
-### 7.SPEAK
+### 6.SPEAK
 
 ***name:*** speak
 
@@ -92,7 +79,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/speak
 
-### 8.TAR
+### 7.TAR
 
 ***name:*** tar
 
@@ -105,7 +92,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tar
 
-### 9.TEST
+### 8.TEST
 
 ***name:*** test
 
@@ -118,7 +105,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/test
 
-### 10.TODO
+### 9.TODO
 
 ***name:*** todo
 
@@ -131,7 +118,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/todo
 
-### 11.TRACKER
+### 10.TRACKER
 
 ***name:*** tracker
 
@@ -144,7 +131,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tracker
 
-### 12.UI-TEST
+### 11.UI-TEST
 
 ***name:*** ui-test
 
@@ -157,7 +144,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ui-test
 
-### 13.UNITTEST
+### 12.UNITTEST
 
 ***name:*** unittest
 
@@ -170,7 +157,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/unittest
 
-### 14.URLDECODE
+### 13.URLDECODE
 
 ***name:*** urldecode
 
@@ -183,7 +170,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urldecode
 
-### 15.URLENCODE
+### 14.URLENCODE
 
 ***name:*** urlencode
 
@@ -196,7 +183,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urlencode
 
-### 16.ZIP
+### 15.ZIP
 
 ***name:*** zip
 

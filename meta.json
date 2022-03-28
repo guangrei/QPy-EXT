@@ -1,7 +1,7 @@
 {
     "META": {
         "prefix": "https://raw.githubusercontent.com/guangrei/Qpy-EXT/main/pkg/",
-        "udated": "2022-03-25 09:20:10"
+        "udated": "2022-03-28 10:19:29"
     },
     "btchat": {
         "author": "qpython",
@@ -44,20 +44,6 @@
             "main.py"
         ],
         "name": "ext-maker",
-        "require": [],
-        "version": "v0.1"
-    },
-    "sl4a-installer": {
-        "author": "guangrei",
-        "description": "Sl4a module installer.",
-        "files": [
-            "setup.py",
-            "setup.cfg",
-            ".version",
-            "main.py",
-            "xsl4a.py"
-        ],
-        "name": "sl4a-installer",
         "require": [],
         "version": "v0.1"
     },
