@@ -53,7 +53,20 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ext-maker
 
-### 5.SL4A-TEST
+### 5.MODULEBK
+
+***name:*** modulebk
+
+***author:*** guangrei
+
+***description:*** module backuper
+
+***version:*** v0.0.1
+
+
+***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/modulebk
+
+### 6.SL4A-TEST
 
 ***name:*** sl4a-test
 
@@ -66,7 +79,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/sl4a-test
 
-### 6.SPEAK
+### 7.SPEAK
 
 ***name:*** speak
 
@@ -79,7 +92,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/speak
 
-### 7.TAR
+### 8.TAR
 
 ***name:*** tar
 
@@ -92,7 +105,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tar
 
-### 8.TEST
+### 9.TEST
 
 ***name:*** test
 
@@ -105,7 +118,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/test
 
-### 9.TODO
+### 10.TODO
 
 ***name:*** todo
 
@@ -118,7 +131,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/todo
 
-### 10.TRACKER
+### 11.TRACKER
 
 ***name:*** tracker
 
@@ -131,7 +144,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/tracker
 
-### 11.UI-TEST
+### 12.UI-TEST
 
 ***name:*** ui-test
 
@@ -144,7 +157,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/ui-test
 
-### 12.UNITTEST
+### 13.UNITTEST
 
 ***name:*** unittest
 
@@ -157,7 +170,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/unittest
 
-### 13.URLDECODE
+### 14.URLDECODE
 
 ***name:*** urldecode
 
@@ -170,7 +183,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urldecode
 
-### 14.URLENCODE
+### 15.URLENCODE
 
 ***name:*** urlencode
 
@@ -183,7 +196,7 @@ Extension for QPy CMD v2.0 and up!
 
 ***link:*** https://github.com/guangrei/QPy-EXT/tree/main/pkg/urlencode
 
-### 15.ZIP
+### 16.ZIP
 
 ***name:*** zip
 
